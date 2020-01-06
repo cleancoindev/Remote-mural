@@ -1,6 +1,6 @@
 # Remote mural
 
---Advancements and additions fork
+--Advancements and additions fork, 2020.
 
 A scene that uses a server and a REST API to sync a scene state amongst multiple users. You can paint pixels in a mural that other users can see. The colors of each pixel are stored in a remote server.
 
